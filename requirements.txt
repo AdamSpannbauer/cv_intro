@@ -3,3 +3,5 @@ scikit-image
 matplotlib
 jupyter
 nb_black
+imutils
+numpy
