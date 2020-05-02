@@ -5,3 +5,7 @@ jupyter
 nb_black
 imutils
 numpy
+mahotas
+tqdm
+scikit-learn
+pandas
